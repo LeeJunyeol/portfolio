@@ -12,11 +12,15 @@
       }
     }
   ],
-  "projects": ["594fb98741dfbdce3c62dc28"],
+  "styleguides": [
+    "63199289808cd24cf1470cdf"
+  ],
   "components": [
     {
       "path": "src/stories/Button.tsx",
-      "zeplinIds": ["632027d843af9f86a3016dcc"]
+      "zeplinIds": [
+        "632039510c193114d5a543fa"
+      ]
     }
   ],
   "github": {
