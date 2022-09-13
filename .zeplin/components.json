@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-react-plugin"
+    },
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+        "url": "http://localhost:6006/",
+        "format": "new",
+        "startScript": "storybook"
+      }
+    }
+  ],
+  "projects": ["594fb98741dfbdce3c62dc28"],
+  "components": [
+    {
+      "path": "src/stories/Button.tsx",
+      "zeplinIds": ["632027d843af9f86a3016dcc"]
+    }
+  ],
+  "github": {
+    "repository": "jy-kkobug/portfolio"
+  }
+}
